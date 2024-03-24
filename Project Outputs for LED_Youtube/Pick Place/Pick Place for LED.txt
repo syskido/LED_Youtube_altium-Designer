@@ -1,0 +1,18 @@
+Altium Designer Pick and Place Locations
+E:\ALTIUM_KIDO_WORK\LED_Youtube\LED_Youtube\Project Outputs for LED_Youtube\Pick Place\Pick Place for LED.txt
+
+========================================================================================================================
+File Design Information:
+
+Date:       24-03-24
+Time:       23:01
+Revision:   Not in VersionControl
+Variant:    No variations
+Units used: mil
+
+Designator Comment      Layer       Footprint Center-X(mil) Center-Y(mil) Rotation Description                     
+R2         360R         BottomLayer R0805     629.921       590.551       90       "RES 360 OHM 1% 1/8W 0805"      
+D2         GREEN        BottomLayer LED0603G  629.921       137.795       90       "LED GREEN CLEAR CHIP 0603 SMD" 
+R1         360R         TopLayer    R0805     196.850       492.126       90       "RES 360 OHM 1% 1/8W 0805"      
+J1         "1x2 Header" TopLayer    HDR1X2    472.441       364.961       0        "CONN HEADER VERT 2POS 2.54MM"  
+D1         GREEN        TopLayer    LED0603G  196.850       177.165       90       "LED GREEN CLEAR CHIP 0603 SMD" 
